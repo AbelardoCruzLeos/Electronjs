@@ -1,0 +1,27 @@
+{
+  "name": "marcadores",
+  "version": "1.0.0",
+  "description": "Applicación para la generacion de marcadores (bookmarks).",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abelardoCruzLeos/electronjs.git"
+  },
+  "keywords": [
+    "Electron",
+    "Escritorio",
+    "Multiplataforma"
+  ],
+  "author": "Abelardo Cruz Leos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abelardoCruzLeos/electronjs/issues"
+  },
+  "homepage": "https://github.com/abelardoCruzLeos/electronjs#readme",
+  "devDependencies": {
+    "electron": "^37.1.0"
+  }
+}
