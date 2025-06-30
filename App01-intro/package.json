@@ -1,0 +1,29 @@
+{
+  "name": "app01-intro",
+  "version": "1.0.0",
+  "description": "Aplicación de escritorio multiplataforma en Electron.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbelardoCruzLeos/Electron.git"
+  },
+  "keywords": [
+    "Electron",
+    "Escritorio",
+    "Multiplataforma",
+    "Node.js",
+    "Chromium"
+  ],
+  "author": "Abelardo Cruz Leos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbelardoCruzLeos/Electron/issues"
+  },
+  "homepage": "https://github.com/AbelardoCruzLeos/Electron#readme",
+  "devDependencies": {
+    "electron": "^37.1.0"
+  }
+}
